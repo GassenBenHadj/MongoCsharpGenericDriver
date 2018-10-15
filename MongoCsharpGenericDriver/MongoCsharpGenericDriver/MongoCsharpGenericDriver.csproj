@@ -5,6 +5,13 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Gassen Ben Hadj</Authors>
     <Description>This package contains the legacy driver and a generic data access of CRUD operations.</Description>
+    <PackageProjectUrl></PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/GassenBenHadj/MongoCsharpGenericDriver/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/GassenBenHadj/MongoCsharpGenericDriver</RepositoryUrl>
+    <NeutralLanguage>en</NeutralLanguage>
+    <AssemblyVersion>2.0.0.0</AssemblyVersion>
+    <FileVersion>2.0.0.0</FileVersion>
+    <Version>2.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
