@@ -44,3 +44,13 @@ For now we just have those method for simple CRUD operations.
 | WriteConcernResult Create(T t) | Add an object in the document |
 | void Update(ObjectId id, T t) | Update an object in the document |
 | void Remove(ObjectId id) | Remove an object in the document |
+
+
+| Plugin | README |
+| ------ | ------ |
+| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| Github | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
