@@ -38,11 +38,11 @@ public ClientsController()
 ### Methods and parameters:
 For now we just have those method for simple CRUD operations
 | Methods | details |
-| ------ | ------ |
-|IEnumerable<T> Get() |Get all elements from the document (example client)|
-|T Get(OjectId id) |Get the element from the document by id|
-|WriteConcernResult Create(T t) |Add an object in the document|
-|void Update(ObjectId id, T t) |Update an object in the document|
+| --- | --- |
+| IEnumerable<T> Get() | Get all elements from the document (example client) |
+| T Get(OjectId id) | Get the element from the document by id |
+| WriteConcernResult Create(T t) | Add an object in the document |
+| void Update(ObjectId id, T t) | Update an object in the document |
 |void Remove(ObjectId id) |Remove an object in the document|
 
 
